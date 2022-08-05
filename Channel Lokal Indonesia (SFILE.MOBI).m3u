@@ -1,0 +1,359 @@
+#EXTM3U 
+
+#EXTINF:0 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/5T4suHL5M2n18gyQMydjTkQTZ60=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/3f534c.png" group-title="NASIONAL", RCTI
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:0 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2mJ0CtnOfeAOqfycxiEswQUIuTU=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/5c9984.png" group-title="NASIONAL", GTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTINF:0 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sZw2i9ccZgdDgKzXwiuuvs2gfFs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png" group-title="NASIONAL", MNC TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#EXTINF:0 tvg-logo="" group-title="NASIONAL", INEWS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_idx_small.png" group-title="NASIONAL", IDX
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
+
+#EXTINF:0 tvg-logo="" group-title="NASIONAL", MNC NEWS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19185215_ico.png?ts=1654801697" group-title="IPTV",KOMPAS TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19498538_ico.png?ts=1654801757" group-title="IPTV",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19498511_ico.png?ts=1654801832" group-title="IPTV",CNBC
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20256304_ico.png?ts=1654801874" group-title="IPTV",ANTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=72da7fd6d1302c0a159f6436d01e9eb0446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19497983_ico.png?ts=1654728408" group-title="IPTV",TVONE
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e0721b2c6977135b916ef286bcb49ec446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19185110_ico.png?ts=1654801963" group-title="IPTV",METRO TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=f1c1592588411002af340cbaedd6fc33446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19185097_ico.png?ts=1654729099" group-title="IPTV",TVRI
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=0b07c4aabfdc28bb8236e195c401e1b2446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19497933_ico.png?ts=1654802059" group-title="IPTV",BERITA SATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20024070_ico.png?ts=1654802106" group-title="IPTV",BERITASATU WORLD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19741080_ico.png?ts=1654802160" group-title="IPTV",JAKARTA GLOBE
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19554559_ico.png?ts=1654802199" group-title="IPTV",JAK TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=4249a84bdaf63c34332d1988244fb089446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20012973_ico.png?ts=1654729384" group-title="IPTV",BATAM TV
+http://122.248.43.138:1935/ch5/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19556287_ico.png?ts=1654802241" group-title="IPTV",BANDUNG TV
+http://202.150.153.254/bandungtv360p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19554476_ico.png?ts=1654802291" group-title="IPTV",J TV
+https://cdn02.mola.tv/Content/HLS/Live/channel(f2cd666d-f350-1140-7ce5-3d7f39f84727)/08.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20910317_ico.png?ts=1655078832" group-title="IPTV",MAGNA CHANNEL
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1139386134_b3884000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20921952_ico.png?ts=1655150701" group-title="IPTV",Nusantara TV 
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=48bea99c85bcbaaba618ba10a6f69e44446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20966151_ico.png?ts=1655386105" group-title="IPTV",DAAI TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=889091ff744069cab08dc605d162a8d3446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19498270_ico.png?ts=1654800910" group-title="IPTV",TVRI SPORT
+http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvedukasi_big1.png?v=2.0.0.13" group-title="NASIONAL",TV Edukasi
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=9fa83fec3cf3810e5680ed45f7124dce446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_balitv_big1.png?v=2.0.0.13" group-title="LOKAL", BALI TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
+
+#EXTINF:-1 tvg-id="jitv" tvg-name="JITV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jitv_big.png?v=2.0.0.13" group-title="LOKAL",JITV
+https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w423702525.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kX8vStpX/bandung-tv.png" group-title="LOKAL",Bandung TV
+http://202.150.153.254/bandungtv720p.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/gk2M7WzF/Balikpapan-TV.png " group-title="LOKAL",BALIKPAPAN TV
+http://122.248.43.138:1935/ch10/myStream/chunklist_w1318591234.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/brXVYQB9/BATAM-TV.png " group-title="LOKAL",BATAM TV
+http://122.248.43.138:1935/ch5/myStream/chunklist_w1975645815.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76rCL0Wy/DAYAK-TV.png" group-title="LOKAL",Dayak TV (Palangka Raya)
+https://tinyurl.com/gratistvmediaDAYAKTV
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/mZdcTXJT/JAMBI-TV.png" group-title="LOKAL",Jambi TV
+http://122.248.43.138:1935/ch23/myStream/chunklist_w88244984.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/mZdcTXJT/JAMBI-TV.png " group-title="LOKAL",Jambi TV (backup)
+https://tinyurl.com/gratistvmediaJAMBITV
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/sDbjP8Dx/JEK-TV.png" group-title="LOKAL", Jek TV (Jambi)
+http://122.248.43.138:1935/ch14/myStream/live.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/sDbjP8Dx/JEK-TV.png " group-title="LOKAL",Jek TV (Jambi) (backup)
+https://tinyurl.com/gratistvmediaJEKTV
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCXHQsD4/KAWANUA-TV.png" group-title="LOKAL",Kawanua TV (Manado)
+http://122.248.43.138:1935/ch18/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/vB74xTJx/PON-TV.png" group-title="LOKAL",PON TV (Pontianak)
+https://v3.siar.us/pontianaktelevisi/live/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5N6Xy5WL/PRIMA-TV.png" group-title="LOKAL", Prima TV (Banjarmasin) 
+http://primatv.onlivestreaming.net/primatv/livestream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/6qYMQHhm/Radar-Cirebon-TV.png " group-title="LOKAL",Radar Cirebon TV
+https://v10.siar.us/rctv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/6qYMQHhm/Radar-Cirebon-TV.png " group-title="LOKAL", Radar Cirebon TV (backup)
+http://122.248.43.138:1935/ch9/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KjF7FqXT/radar-lampung.png" group-title="LOKAL",Radar Lampung TV
+http://122.248.43.138:1935/ch17/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6JQLKZC/RB-TV.png" group-title="LOKAL",RBTV (Bengkulu)
+https://h1.intechmedia.net/intech/ch59.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TwQ2r3pv/RIAU-TV.png" group-title="LOKAL",Riau TV
+http://122.248.43.138:1935/ch11/myStream/chunklist_w2044873838.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzZJxJjh/SIMPANG-5-TV.png" group-title="LOKAL", Simpang 5 TV (Pati)
+http://122.248.43.138:1935/ch4/myStream/chunklist_w1341916192.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/KzZJxJjh/SIMPANG-5-TV.png " group-title="LOKAL",Simpang 5 TV (Pati) (backup)
+https://tinyurl.com/gratistvmediaSIMPANG5
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6fs0wnX/SMTV.png" group-title="LOKAL",SMTV (Sumedang)
+http://122.248.43.138:1935/ch25/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4rkJ34r/TATV.png" group-title="LOKAL",TATV (Solo)
+http://video2.onlivestreaming.net/tatv/live.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/kgrCRbft/desa-tv.png " group-title="LOKAL",TV Desa (backup)
+https://tinyurl.com/gratistvmediaTVDESA
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xcnbJd3/TVTPI.png" group-title="LOKAL",TVTPI 
+http://103.30.246.47:1935/tvtpi/smil:live.smil/chunklist_w1141324132_b1996608_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCdnh583/UGTV.png" group-title="LOKAL",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+
+
+#EXTINF:-1   tvg-logo=" http://staging.tvri.go.id/assets/img_gallery/daerah/tvrijtown.jpg " group-title="TVRI DAERAH",TVRI DKI JAKARTA
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDki)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/17.png" group-title="TVRI DAERAH",TVRI ACEH
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIAceh)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/28.png " group-title="TVRI DAERAH",TVRI SUMATERA UTARA
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISumutmedan)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/26.png " group-title="TVRI DAERAH",TVRI SUMATERA BARAT
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISumbarpadang)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/27.png" group-title="TVRI DAERAH",TVRI SUMATERA SELATAN
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISumsel)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/riaubaru.png" group-title="TVRI DAERAH",TVRI RIAU
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIRiau)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/9.png " group-title="TVRI DAERAH",TVRI JAMBI
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJambi)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/5.png" group-title="TVRI DAERAH",TVRI BANGKA BELITUNG
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/6.png " group-title="TVRI DAERAH",TVRI BENGKULU
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBengkulu)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/16.png" group-title="TVRI DAERAH",TVRI LAMPUNG
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRILampung)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/8.png" group-title="TVRI DAERAH",TVRI JAWA BARAT
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJabarbandung)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/10.png" group-title="TVRI DAERAH",TVRI JAWA TENGAH
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJatengsemarang)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/11.png" group-title="TVRI DAERAH",TVRI JAWA TIMUR
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJatimsurabaya)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/29.png" group-title="TVRI DAERAH",TVRI YOGYAKARTA
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYogyakarta)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/tvribali.png" group-title="TVRI DAERAH",TVRI BALI
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBali)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/18.png" group-title="TVRI DAERAH",TVRI NUSA TENGGARA BARAT
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINtbmataram)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/19.png" group-title="TVRI DAERAH",TVRI NUSA TENGGARA TIMUR
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINttkupang)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/12.png " group-title="TVRI DAERAH",TVRI KALIMANTAN BARAT
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/14.png" group-title="TVRI DAERAH",TVRI KALIMANTAN TENGAH
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
+
+#EXTINF:-1   tvg-logo=" http://staging.tvri.go.id/assets/img_gallery/daerah/15.png " group-title="TVRI DAERAH",TVRI KALIMANTAN TIMUR
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/13.png" group-title="TVRI DAERAH",TVRI KALIMANTAN SELATAN
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/22.png" group-title="TVRI DAERAH",TVRI SULAWESI SELATAN
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISulselmakasar)/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/21.png" group-title="TVRI DAERAH",TVRI SULAWESI BARAT
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISulbarmajene)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/24.png" group-title="TVRI DAERAH",TVRI SULAWESI TENGGARA
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISultra)/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/23.png" group-title="TVRI DAERAH",TVRI SULAWESI TENGAH
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISultengpalu)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/25.png" group-title="TVRI DAERAH",TVRI SULAWESI UTARA
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISulutmanado)/index.m3u8
+ 
+#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/7.png" group-title="TVRI DAERAH",TVRI GORONTALO
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIGorontalo)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/3.png" group-title="TVRI DAERAH",TVRI MALUKU
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/tvripapua.png" group-title="TVRI DAERAH",TVRI PAPUA
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_big1.png?v=2.0.0.13" group-title=" NEWS ",TVRI World
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/RV9MYjwf/TEMPO-TV.png " group-title=" NASIONAL ",Tempo TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=5d188b044333b4c62676e0d4f53dade7446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJdp2Wnw/the-indonesia-channel.png" group-title="NASIONAL",The Indonesia Channel
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/8zpwVzZp/jakarta-globe.png " group-title="NASIONAL",JAKARTA GLOBE NEWS
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/mrj0dFpz/BERITA-SATU-WORLD.png " group-title="NASIONAL",BERITA SATU WORLD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+
+#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_seatoday_big.png?v=1" group-title="NASIONAL", SEA Today
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/DySfXFhR/JAWAPOS-TV.png" group-title="NASIONAL",Jawa Pos TV
+http://122.248.43.138:1935/ch6/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_big1.png?v=2.0.0.13" group-title=" NASIONAL",BeritaSatu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_big.png?v=2.0.0.13" group-title="NASIONAL",KOMPAS TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_big1.png?v=2.0.0.13" group-title="NASIONAL",METRO TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
+
+#EXTINF:-1  tvg-id="CNNIndonesia.id" tvg-logo=" https://www.useetv.com/assets/images/channel/logo_cnnindonesia_big1.png?v=2.0.0.13" group-title="NASIONAL", CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_cnbcid_big.png " group-title="NASIONAL", CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_big1.png?v=2.0.0.13" tvg-url="" group-title=" NASIONAL",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w226470954_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="rtv" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_big1.png?v=2.0.0.13" group-title="NASIONAL",RTV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_big1.png?v=2.0.0.13" group-title=" NASIONAL ",TVRI
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/ZqJ9wG6n/magna-channel.png " group-title="NASIONAL",Magna TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/N0w2NSZq/TVRI-Sport.png " group-title=" SPORTSTATION ",TVRI SPORT HD
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF: -1 tvg-id="tvone" tvg-logo="https://i.ibb.co/mDJ7S60/tvone.png" group-title="Lokal", TVONE
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+
+#EXTINF: -1 tvg-id="UseePrime" tvg-name="UseePrime" tvg-logo="https://i.imgur.com/drcIzRz.png" group-title="Lokal", Usee Prime HD
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/cydHCWx/Metro-TVfxx.png" group-title="Lokal", METRO TV HD
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
+
+#EXTINF: -1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i.imgur.com/b5gcteI.png" group-title="Lokal", TVRI HD
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/bNxt0HNG/CNN-Indonesia.png" group-title="Lokal", CNN INDONESIA HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
+
+#EXTINF: -1 tvg-id="BeritaSatuNewsChannel.id" tvg-logo="http://dusktill.masuk.web.id/img/bs.png" group-title="Lokal", Berita Satu HD
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF: -1 tvg-id="BeritaSatuNewsChannelworld.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/BeritaSatuWorld.png" group-title="Lokal", Berita Satu World HD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+
+#EXTINF: -1 tvg-id="BeritaSatuNewsenglish.id" tvg-logo="https://i.ibb.co/5F2s9tQ/berita-satu-english.jpg" group-title="Lokal", Berita Satu English HD
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+
+#EXTINF: -1 tvg-id="tic.id" tvg-logo="https://i.ibb.co/4424QQY/the-indonesia-channel.png" group-title="Lokal", The Indonesia Channel HD
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
+
+#EXTINF: -1 tvg-id="cnbc.id" tvg-name="cnbcid" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="Lokal", CNBC Indonesia HD
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/eroz_brebes.m3u8
+
+#EXTINF: -1 tvg-id="Magna Channel" tvg-name="Magna Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="Lokal", Magna Channel HD
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
+
+#EXTINF: -1 tvg-id="TVRI World" tvg-name="TVRI World" tvg-logo="https://i.imgur.com/zfElMa0.png" group-title="Lokal", TVRI World HD
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+
+#EXTINF: -1 tvg-logo="http://dusktill.masuk.web.id/img/daaitv.png" group-title="Lokal", DAAI TV
+http://playlist.urfan.web.id/qwr9ew/s/s13/01.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/j86kRWK/transtvfix.png" group-title="Lokal Backup", Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/8B8tY5z/800px-Trans-7-2013-svg.png" group-title="Lokal Backup", Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/6b6f9790-ee00-11ec-97d9-5d2049564ac8/3326151/583707683.jpeg" group-title="Lokal Backup", Indosiar
+https://delivery.macan.network/stream/id_indosiar/playlist.m3u8?token=rqvntc0&v=20200807
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="National TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/1024px-CNN_Indonesia.svg.png",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1622709713_b192000_sleng.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="National TV" tvg-logo="https://i.imgur.com/qdJUDL8.png",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
+
+#EXTINF: -1 tvg-id="TVRI Sport HD" tvg-name="TVRI Sport HD" tvg-logo="https://i.imgur.com/aSXmtqg.png" group-title="Sports", TVRI Sport HD
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
